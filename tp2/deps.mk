@@ -1,0 +1,1 @@
+algogram: main.o algogram.o post.o abb.o heap.o hash.o lista.o cola.o pila.o
